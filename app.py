@@ -129,7 +129,7 @@ def predict5():
     prediction1 = model4.predict(final_features1)
 
     output1 = round(prediction1[0], 2)
-    return render_template('Toyato.html', predict_text1='The Estimated Price of your car is {}'.format(output1))
+    return render_template('mahindra.html', predict_text1='The Estimated Price of your car is {}'.format(output1))
 
 
 
