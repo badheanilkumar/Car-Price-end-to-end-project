@@ -2,7 +2,7 @@
 This end-to-end project is about predicting prices for the second hand cars.
 
 If you would like to give this project a try then you can follow these steps:
-1. Firstly get in to the Car_price_End_to_End_Project2 repository where there is a readme with explanation about approaching the problem.
+1. Firstly get in to the Car-Price-end-to-end-Project2 repository where there is a readme with explanation about approaching the problem.
 2. Then come back here to check out what's next!.
 3. Now get the templates of your choice and then edit if you are willing to do.
 4. Check for "flask" tutorials to know how simply a web app can be created.
